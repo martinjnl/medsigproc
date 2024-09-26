@@ -7,4 +7,4 @@ https://mybinder.org/v2/gh/martinjnl/medsigproc.git/HEAD?labpath=LPFilter.ipynb
 
 or
 
-https://binder.curvenote.dev/v2/gh/martinjnl/medsigproc.git/HEAD?labpath=LPFilter.ipynb
+https://colab.research.google.com/github/martinjnl/medsigproc/blob/main/LPFilter.ipynb
